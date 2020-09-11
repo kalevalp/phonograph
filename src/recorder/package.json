@@ -5,7 +5,7 @@
   "main": "recorder.js",
   "dependencies": {
     "got": "^6.7.1",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "nodemailer": "^4.3.1",
     "vm2": "latest",
     "rnr-utils": "../rnr-utils"
